@@ -190,7 +190,7 @@ function makeTodoElement(todoArray)
       card.classList.add("dragging");
     });
 
-    
+
     card.addEventListener('dragend', () => 
     {
       card.classList.remove("dragging");
@@ -236,6 +236,7 @@ function makeTodoElement(todoArray)
 
     });
 
+    
 
     clearBtn.appendChild(img);
     cbContainer.appendChild(cbInput);
