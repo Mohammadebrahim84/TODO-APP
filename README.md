@@ -1,6 +1,12 @@
 # 📝 ToDo App
 
 <!-- ![Todo App Screenshot](./assets/images/photo1.png) -->
+🐻❤️ My name is Mohammadebrahim & I'm a Frontend Developer.
+
+🚀 Check this [URL](https://mohammadebrahim84.github.io/TODO-APP/) for more info about this project.
+
+---
+
 
 A simple and elegant task management app that allows you to add, remove, and edit tasks with features like sorting, filtering, search, and drag & drop functionality.
 
